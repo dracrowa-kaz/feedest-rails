@@ -1,0 +1,8 @@
+{
+  "name": "app",
+  "private": true,
+  "dependencies": {
+    "moment": "^2.22.2",
+    "recharts": "^1.1.0"
+  }
+}
